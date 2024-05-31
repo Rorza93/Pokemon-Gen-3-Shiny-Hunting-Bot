@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 shinyFound = False
-timeMultiplier = 5
+timeMultiplier = 1
 rapidDelay = 0.1
 shortDelay = 0.5/timeMultiplier
 MediumDelay = 1/timeMultiplier
